@@ -277,7 +277,7 @@ repositories:
     version: rolling
   ros2/rclpy:
     type: git
-    url: https://github.com/ros2/rclpy.git
+    url: https://github.com/Achllle/rclpy.git
     version: rolling
   ros2/rcpputils:
     type: git
